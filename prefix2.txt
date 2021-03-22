@@ -1,0 +1,12 @@
+DNAseq/DNASeq_bam/ADL06_1
+DNAseq/DNASeq_bam/ADL06_2
+DNAseq/DNASeq_bam/ADL06_3
+DNAseq/DNASeq_bam/ADL09_1
+DNAseq/DNASeq_bam/ADL09_2
+DNAseq/DNASeq_bam/ADL09_3
+DNAseq/DNASeq_bam/ADL10_1
+DNAseq/DNASeq_bam/ADL10_2
+DNAseq/DNASeq_bam/ADL10_3
+DNAseq/DNASeq_bam/ADL14_1
+DNAseq/DNASeq_bam/ADL14_2
+DNAseq/DNASeq_bam/ADL14_3
