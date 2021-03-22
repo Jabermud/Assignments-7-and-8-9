@@ -1,0 +1,12 @@
+DNAseq/rawdata/ADL06_1
+DNAseq/rawdata/ADL06_2
+DNAseq/rawdata/ADL06_3
+DNAseq/rawdata/ADL09_1
+DNAseq/rawdata/ADL09_2
+DNAseq/rawdata/ADL09_3
+DNAseq/rawdata/ADL10_1
+DNAseq/rawdata/ADL10_2
+DNAseq/rawdata/ADL10_3
+DNAseq/rawdata/ADL14_1
+DNAseq/rawdata/ADL14_2
+DNAseq/rawdata/ADL14_3
